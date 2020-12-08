@@ -1,0 +1,56 @@
+Supernatural: The Game
+Game Development Document
+---------------------------------------------------------------------------------------------
+
+THIS DOCUMENT IS PROPERTY OF PRAETOR SOLARIS STUDIOS AND IS NOT TO BE DISTRIBUTED OR SOLD.
+
+---------------------------------------------------------------------------------------------
+Game Title:
+Supernatural: The Game
+---------------------------------------------------------------------------------------------
+Game Genre:
+3rd Person Survival Horror (Season 1-3)
+3rd Person Survival Horror with the following modes (Season 4-15)
+-1st Person Multiplayer Deathmatch
+-3rd Person Multiplayer Deathmatch
+-Multiplayer Last Team Standing
+-Multiplayer Hostage Rescue (Hunters rescuing victim from a den of monsters)
+---------------------------------------------------------------------------------------------
+Campaign Mode:
+The campaign mode will introduce the player to the game, in a sense that
+they were a person who was rescued by a key character from the Supernatural
+series.
+---------------------------------------------------------------------------------------------
+Character Customization:
+Character creation will determine the story of your character.
+In the first season, we plan to have both a female and male
+character model as selectable options.
+
+By the time the second season is released, we plan to implement face
+customization(meaning a person could take a photo of themselves and use
+that picture as their character face. We understand that this may mean we
+could have multiple Deans, Sams, Crowleys, etc running around. That is the
+players choice.
+
+There will be a limitation on character names imposed which will help
+alleviate character names from being created with toxicity. For example,
+a person will not be able to create a character name that contains profanity,
+racial slurs, sexual references, or other names which are not conducive to a
+desirable atmosphere.
+---------------------------------------------------------------------------------------------
+Gameplay:
+---------------------------------------------------------------------------------------------
+:
+
+
+
+
+
+
+
+
+Please note that this document is in the process of revision based on the input of many people.
+---------------------------------------------------------------------------------------------
+Use the following 2 lines to separate sections of the document. The colon is convenient.
+---------------------------------------------------------------------------------------------
+:
